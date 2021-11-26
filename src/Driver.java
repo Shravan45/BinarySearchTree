@@ -48,7 +48,7 @@ public class Driver {
 
     System.out.println("=-==========================");
     //Search for an item using iteration.
-    keyExists = tree.searchUsingIteration(31);
+    keyExists = tree.searchUsingIteration(32);
     if (keyExists) {
       System.out.println("Key exists!");
     } else {
